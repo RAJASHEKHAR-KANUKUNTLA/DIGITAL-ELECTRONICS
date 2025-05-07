@@ -10,4 +10,5 @@
 **Logic Levels**
 
 +5V = 1
+
  0V = 0
