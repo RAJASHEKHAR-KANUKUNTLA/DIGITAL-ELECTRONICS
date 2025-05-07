@@ -5,9 +5,9 @@ DIGITAL ELECTRONICS INTERNSHIP
 
 **Applications of DE**
 
-Digital vs Analog signals.
+**Digital vs Analog signals**
 
-Logic Levels
+**Logic Levels**
 
 +5V = 1
  0V = 0
