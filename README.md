@@ -9,6 +9,6 @@
 
 **Logic Levels**
 
-+5V = 1
++5V = Logic 1
 
- 0V = 0
+ 0V = Logic 0
